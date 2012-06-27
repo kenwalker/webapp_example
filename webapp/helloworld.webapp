@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "HelloWorld Application",
+  "description": "Hello World Example Web Application",
+  "icons": {
+	"128": "/webapp/beer_128.png"
+  },
+  "developer": {
+    "name": "Mozilla Labs",
+    "url": "http://mozillalabs.com/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "launch_path": "http://helloworld.orionhub.org/index.html",
+  "locales": {
+  },
+  "default_locale": "en"
+}
