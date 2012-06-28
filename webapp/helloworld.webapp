@@ -3,7 +3,7 @@
   "name": "HelloWorld Application",
   "description": "Hello World Example Web Application",
   "icons": {
-	"128": "/webapp/beer_128.png"
+	"128": "/webapp/helloworld.png"
   },
   "developer": {
     "name": "Mozilla Labs",
